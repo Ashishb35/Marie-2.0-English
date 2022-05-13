@@ -32,7 +32,7 @@
       "value": "ANYTHING"
     },
     "URL": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
+      "description": "The Heroku App URL similar to https://bakkwasmoviesofficialbot.herokuapp.com/",
       "value": ""
     },
     "MESSAGE_DUMP": {
@@ -53,7 +53,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/Your_id_here"
+      "value": "https://t.me/AshishB3"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
