@@ -32,8 +32,8 @@
       "value": "ANYTHING"
     },
     "URL": {
-      "description": "The Heroku App URL similar to https://bakkwasmoviesofficialbot.herokuapp.com/",
-      "value": ""
+      "description": "The Heroku App URL similar to https://<<username>>.herokuapp.com/",
+      "value": "https://bakkwasmoviesofficialbot.herokuapp.com/"
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
