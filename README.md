@@ -17,7 +17,7 @@ Alternatively, [find me on telegram](https://t.me/SonOfLars)! (Keep all support 
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ashishb35/Marie-2.0-English)
 
 ## Starting the bot.
 
@@ -48,13 +48,13 @@ from tg_bot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 570400686  # my telegram ID
-    OWNER_USERNAME = "Anandus"  # my telegram username
-    API_KEY = "your bot api key"  # my api key, as provided by the botfather
+    OWNER_ID = 641846423  # my telegram ID
+    OWNER_USERNAME = "Ashish"  # my telegram username
+    API_KEY = "5394611321:AAF8zn32sI6vmLDp_s46mkvCnhm5teTfFZ0"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
     USE_MESSAGE_DUMP = True
-    SUDO_USERS = [18673980, 83489514]  # List of id's for users which have sudo access to the bot.
+    SUDO_USERS = [631486423]  # List of id's for users which have sudo access to the bot.
     LOAD = []
     NO_LOAD = ['translation']
 ```
